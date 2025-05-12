@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Rishabh Dubey and I am currently a CS + Econ student at UW-Madison
+
+- I am interested in ML, Fintech, Data Analytics, and SDE
+
 <!--
 **RishabhDubey2005/RishabhDubey2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
