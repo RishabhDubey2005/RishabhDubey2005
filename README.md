@@ -1,9 +1,12 @@
+<h1>Rishabh Dubey</h1>
 ## Hi there 👋
 
-My name is Rishabh Dubey and I am currently a CS + Econ student at UW-Madison
-
-- I am interested in ML, Fintech, Data Analytics, and SDE
-- Check out my website: rishabhdubey2005.github.io
+<ul>
+  <li>My name is Rishabh Dubey and I am currently a CS + Econ. Analytics student at UW-Madison. </li>
+  <li>I am interested in ML, Fintech, Data Analytics, and SDE. </li>
+  <li><link src="https://linkedin.com/in/rishabhdubey4">Connect with me on Linkedin!</link></li>
+  <li><link src="rishabhdubey2005.github.io">Check out my website!</li>link></li>
+</ul>
 
 <!--
 **RishabhDubey2005/RishabhDubey2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
