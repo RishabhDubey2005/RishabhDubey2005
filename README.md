@@ -4,8 +4,8 @@
 <ul>
   <li>My name is Rishabh Dubey and I am currently a CS + Econ. Analytics student at UW-Madison. </li>
   <li>I am interested in ML, Fintech, Data Analytics, and SDE. </li>
-  <li><link src="https://linkedin.com/in/rishabhdubey4">Connect with me on Linkedin!</link></li>
-  <li><link src="rishabhdubey2005.github.io">Check out my website!</li>link></li>
+  <li><a href="https://linkedin.com/in/rishabhdubey4">Connect with me on Linkedin!</a></li>
+  <li><a href="rishabhdubey2005.github.io">Check out my website!</a>link></link>
 </ul>
 
 <!--
