@@ -37,7 +37,17 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)            
 
-## 🌐 Socials:
+# 🔨 Projects:
+Currently Building:
+<li>
+  <ol>Finance Portfoliio Tracker using Stock Market and Economic Data using Java and SpringBoot</ol>
+</li>
+
+<li>
+  <ol>Portfolio Website using React</ol>
+</li>
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhdubey4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rdubey3@wisc.edu) 
 
 
